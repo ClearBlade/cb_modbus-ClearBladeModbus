@@ -1,0 +1,17 @@
+{
+    "event_definition": {
+        "def_keys": [
+            "collectionId",
+            "collectionName",
+            "itemId"
+        ],
+        "def_module": "Data",
+        "def_name": "ItemUpdated",
+        "visibility": true
+    },
+    "key_value_pairs": {
+        "collectionName": "adapter_config"
+    },
+    "name": "adapter_config_item_updated",
+    "service_name": "trigger_adapter_config_table"
+}

@@ -1,0 +1,16 @@
+{
+    "event_definition": {
+        "def_keys": [
+            "collectionId",
+            "collectionName"
+        ],
+        "def_module": "Data",
+        "def_name": "ItemCreated",
+        "visibility": true
+    },
+    "key_value_pairs": {
+        "collectionName": "adapter_config"
+    },
+    "name": "adapter_config_item_created",
+    "service_name": "trigger_adapter_config_table"
+}
