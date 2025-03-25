@@ -4,8 +4,8 @@
  * @param {CbServer.Resp} resp
  */
 
-function {{component_prefix}}_teardown(req, resp) {
+function cb_modbus_setup(req, resp) {
   const params = req.params;
-  //component teardown behavior here. Undo any setup done in the setup service
+  //component setup behavior here initialize any external databases, bucket sets, etc.
   resp.success('Success');
 }

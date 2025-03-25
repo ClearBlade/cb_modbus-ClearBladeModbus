@@ -4,8 +4,8 @@
  * @param {CbServer.Resp} resp
  */
 
-function {{component_prefix}}_setup(req, resp) {
+function cb_modbus_update(req, resp) {
   const params = req.params;
-  //component setup behavior here initialize any external databases, bucket sets, etc.
+  //component update behavior here. Allow the user to update an instance of the component
   resp.success('Success');
 }

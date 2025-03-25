@@ -4,8 +4,8 @@
  * @param {CbServer.Resp} resp
  */
 
-function {{component_prefix}}_uninstall(req, resp) {
+function cb_modbus_teardown(req, resp) {
   const params = req.params;
-  //component uninstall behavior here, undo any steps done in the install service
+  //component teardown behavior here. Undo any setup done in the setup service
   resp.success('Success');
 }
