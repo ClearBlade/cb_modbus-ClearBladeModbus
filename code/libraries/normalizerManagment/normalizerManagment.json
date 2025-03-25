@@ -1,0 +1,7 @@
+{
+    "api": null,
+    "dependencies": "FCConfiguration,FCUtility,cacheManagment,log",
+    "description": null,
+    "name": "normalizerManagment",
+    "visibility": "system"
+}

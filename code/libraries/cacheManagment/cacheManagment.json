@@ -1,0 +1,7 @@
+{
+    "api": null,
+    "dependencies": "FCUtility,clearblade",
+    "description": null,
+    "name": "cacheManagment",
+    "visibility": "system"
+}

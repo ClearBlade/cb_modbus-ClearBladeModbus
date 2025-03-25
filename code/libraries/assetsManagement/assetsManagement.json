@@ -1,0 +1,7 @@
+{
+    "api": null,
+    "dependencies": "FCConfiguration,responseUtility",
+    "description": null,
+    "name": "assetsManagement",
+    "visibility": "system"
+}

@@ -1,0 +1,7 @@
+{
+    "api": null,
+    "dependencies": "FCConfiguration,ModbusSerial,cacheManagment",
+    "description": null,
+    "name": "modbusManagement",
+    "visibility": "system"
+}

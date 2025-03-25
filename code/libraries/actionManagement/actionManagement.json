@@ -1,0 +1,7 @@
+{
+    "api": null,
+    "dependencies": "FCConfiguration,modbusManagement,FCUtility,normalizerManagment,responseUtility",
+    "description": "Perform actions related service functions",
+    "name": "actionManagement",
+    "visibility": "system"
+}

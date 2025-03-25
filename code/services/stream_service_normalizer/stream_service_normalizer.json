@@ -1,0 +1,16 @@
+{
+    "auto_balance": true,
+    "auto_restart": null,
+    "concurrency": 1,
+    "dependencies": "log,clearblade,FCUtility,FCConfiguration,normalizerManagment,jsutil,mqtt",
+    "execution_timeout": -1,
+    "log_ttl_minutes": 60,
+    "logging_enabled": false,
+    "name": "stream_service_normalizer",
+    "params": [
+        ""
+    ],
+    "run_on_edge": true,
+    "run_on_platform": false,
+    "run_user": ""
+}

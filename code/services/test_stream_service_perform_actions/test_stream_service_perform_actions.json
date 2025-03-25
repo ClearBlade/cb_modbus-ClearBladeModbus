@@ -1,0 +1,13 @@
+{
+    "auto_balance": false,
+    "auto_restart": false,
+    "concurrency": 0,
+    "dependencies": "clearblade,mqtt,ModbusSerial,modbusManagement,FCUtility,FCConfiguration,pollingManagment,normalizerManagment,log,actionManagement",
+    "execution_timeout": 60,
+    "logging_enabled": true,
+    "name": "test_stream_service_perform_actions",
+    "params": [
+        ""
+    ],
+    "run_user": ""
+}

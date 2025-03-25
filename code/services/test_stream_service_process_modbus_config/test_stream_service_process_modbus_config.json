@@ -1,0 +1,16 @@
+{
+    "auto_balance": false,
+    "auto_restart": null,
+    "concurrency": 0,
+    "dependencies": "log,pollingManagment,FCUtility,FCConfiguration",
+    "execution_timeout": 60,
+    "log_ttl_minutes": 10080,
+    "logging_enabled": true,
+    "name": "test_stream_service_process_modbus_config",
+    "params": [
+        ""
+    ],
+    "run_on_edge": true,
+    "run_on_platform": true,
+    "run_user": ""
+}

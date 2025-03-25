@@ -1,0 +1,7 @@
+{
+    "api": null,
+    "dependencies": "FCConfiguration",
+    "description": null,
+    "name": "FCUtility",
+    "visibility": "system"
+}

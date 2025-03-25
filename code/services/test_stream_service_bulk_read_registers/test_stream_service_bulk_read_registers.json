@@ -1,0 +1,16 @@
+{
+    "auto_balance": false,
+    "auto_restart": null,
+    "concurrency": 0,
+    "dependencies": "log,modbusManagement,FCUtility,FCConfiguration,assetsManagement,clearblade,jsutil",
+    "execution_timeout": 60,
+    "log_ttl_minutes": 10080,
+    "logging_enabled": true,
+    "name": "test_stream_service_bulk_read_registers",
+    "params": [
+        ""
+    ],
+    "run_on_edge": true,
+    "run_on_platform": true,
+    "run_user": ""
+}
